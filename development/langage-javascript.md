@@ -13,17 +13,20 @@
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
-```javascript
-(e) => mc2;
-```
+<!-- function greet(name){
 
-### Utilisation dans un projet ❌ / ✔️
+  if(name === "Johnny")
+    return "Hello, my love!";
+  return "Hello, " + name + "!";
+} -->
 
-[lien github](...)
+### Utilisation dans un projet ✔️
 
-Description :
+[lien github](https://github.com/JulienBenoit7/Projet-1-Wild-Clickers)
+
+Description : C'est le premier projet que j'ai fais en arrivant a la wild. c'est un petit projet avec un compteur de clic.
 
 ### J'ai utilisé ce langage en production ❌ / ✔️
 
@@ -31,9 +34,9 @@ Description :
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-Description :
+Description : J'ia utiliser javascript en entrepise avec le framework VueJs.
 
 ## 🌐 J'utilise des ressources
 
